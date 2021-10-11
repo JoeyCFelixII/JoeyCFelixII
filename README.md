@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JoeyCFelixII
+- 👀 I’m interested in Data Science, League of Legends, and Sports in general
+- 🌱 I’m currently learning Python + Machine Learning
+- 📫 How to reach me email: joeyfelix@knights.ucf.edu
